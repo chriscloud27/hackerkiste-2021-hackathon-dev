@@ -16,7 +16,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: ./stage_5_Destroy_Infra
+        working-directory: ./stage_1_AKS_Cluster
       
     steps:
     # Checkout the repository to the GitHub Actions runner
